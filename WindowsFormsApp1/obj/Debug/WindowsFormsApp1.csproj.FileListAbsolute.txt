@@ -1,0 +1,13 @@
+C:\Users\yeluo\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\yeluo\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\yeluo\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\yeluo\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\yeluo\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\yeluo\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\yeluo\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\yeluo\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\yeluo\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\yeluo\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\yeluo\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\yeluo\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\yeluo\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
